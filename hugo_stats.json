@@ -15,13 +15,14 @@
       "html",
       "img",
       "input",
+      "li",
       "link",
       "main",
       "meta",
       "p",
-      "strong",
       "textarea",
-      "title"
+      "title",
+      "ul"
     ],
     "classes": [
       "antialiased",
@@ -126,13 +127,13 @@
       "imprint--privacy-policy",
       "main",
       "message",
+      "mission",
       "name",
       "newsletter-sign-up-form",
-      "prototype",
+      "our-values",
       "stay-in-touch",
       "tagline-paragraph",
-      "teaser-image",
-      "the-future---today"
+      "teaser-image"
     ]
   }
 }
