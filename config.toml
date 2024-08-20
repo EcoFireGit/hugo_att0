@@ -1,4 +1,4 @@
-baseURL = "https://hugoatt0-ecofiregits-projects.vercel.app/"
+baseURL = "https://www.lifetimewellth.com"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT", "404"]
