@@ -47,7 +47,8 @@ the limited means available.
 
 ---
 
-Have we caught your attention? We appreciate your feedback at this early stage of our product. Do not hesitate to contact us. In fact, if your interested, we'd love to give you a tour of the prototype we built.
+We appreciate your feedback at this early stage of our product.
+Do not hesitate to contact us.
+Please email us at ecofirelife@gmail.com .
 
-{{< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Address" placeholder_message="Message" button_label="Send ✉️">}}
 
