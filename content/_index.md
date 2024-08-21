@@ -5,7 +5,7 @@ header_button_more:
   url: "#mission"
   title: "Mission statement"
 header_button_cta:
-  url: "#contact-form"
+  url: "#get-in-touch"
   title: "Get in touch"
 teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20testing/
 ---
@@ -46,6 +46,8 @@ progress.
 the limited means available.
 
 ---
+
+# Get in touch
 
 We appreciate your feedback at this early stage of our product.
 Do not hesitate to contact us.
