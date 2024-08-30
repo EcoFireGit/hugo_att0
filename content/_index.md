@@ -12,7 +12,7 @@ teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20test
 
 # Mission
 
-We exist to empower entrepreneurs to take charge of their business and their
+We exist to empower founders to take charge of their business and their
 lives, by directing their most valuable resources: time & money, towards what
 matters most to them.
 
