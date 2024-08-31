@@ -30,7 +30,7 @@ with our customers, colleagues, and any other relationship or interaction.
 environment where we have good intent and not cause harm or discomfort to
 others.  We strive to create a considerate and safe environment where trust and
 collaboration can thrive.
-* **Transparency**
+* **Authenticity**
     We believe in open and honest communication. By sharing information freely and
 clearly, we build trust, ensure accountability, and create a culture where
 everyone is informed, engaged, and empowered to contribute to our collective
@@ -44,13 +44,15 @@ progress.
 * **Resourcefulness**
     We emphasize finding effective ways to solve problems or achieve goals with
 the limited means available.
+* **Accountability**
+    We are accountable to each other, our customers, and our future selves &
+    future generations for our decisions and actions.
 
 ---
 
 # Get in touch
 
 We appreciate your feedback at this early stage of our product.
-Do not hesitate to contact us.
 Please email us at ecofirelife@gmail.com .
 
 
