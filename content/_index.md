@@ -1,6 +1,6 @@
 ---
 header_brand: "EcoF:re"
-header_tagline_paragraph: "Elevate your business to optimize your impact by investing your time and money wisely."
+header_tagline_paragraph: "Elevate your business and amplify your impact by strategically investing your time."
 header_button_more:
   url: "#mission"
   title: "Mission statement"
