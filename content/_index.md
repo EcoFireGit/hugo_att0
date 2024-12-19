@@ -52,6 +52,6 @@ the limited means available.
 # Get in touch
 
 We appreciate your feedback at this early stage of our product.
-Please email us at ecofirelife@gmail.com .
+Please email us at info@ecofire.life
 
 
